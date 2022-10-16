@@ -1,0 +1,33 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .container {
+    background-color: rgb(43, 153, 226);
+    height: 110px;
+    color: white;
+    font-size: larger;
+    margin-left: 100px;
+  }
+  .main {
+    border: 1px solid black;
+    width: 50%;
+    border-radius: 6px;
+  }
+  
+  h2,
+  p {
+    margin: 15px;
+  }
+  
+  h4 {
+    background-color: rgb(43, 153, 226);
+    font-size: large;
+  }
+  
+  img {
+    height: 110px;
+    margin: 15px;
+    border-radius: 80px;
+  }
+  
