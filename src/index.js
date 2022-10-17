@@ -11,7 +11,7 @@ function CV() {
       <div className="container">
         <h2>Muhammad Usman</h2>
         <p>
-          <strong>Address: </strong> Block 6, house no 5 site area karachi.
+          <strong>Address: </strong> Block A, house no 5 xyz..............
         </p>
         <p>
           <strong>Phone num: </strong> 03022522031
