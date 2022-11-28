@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#div_dashboard{
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#button{
+    width: 30%;
+    font-size: larger;
+    margin-top: 10px;
+}
+
+#popup_dshboard{
+    
+    display: none;
+}
+
+h1{
+    background-color: aquamarine;
+    height: 40%;
+}
